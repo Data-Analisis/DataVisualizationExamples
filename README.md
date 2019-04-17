@@ -24,3 +24,11 @@
 1910-2004年某地茶、咖啡与牛奶的销量
 
 ![image](https://github.com/Kanvases/DataVisualizationExamples/blob/master/gifs/wave.gif)
+
+## VAST_C3
+一场传染病正在这个城市流行，从人们发出的微博中获得流行病的传播趋势。
+![image](https://github.com/Kanvases/DataVisualizationExamples/blob/master/blender-VAST_C3/2.png)
+
+## oceanCurrent
+地球洋流可视化
+![image](https://github.com/Kanvases/DataVisualizationExamples/blob/master/gifs/ocean.png)
